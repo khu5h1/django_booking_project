@@ -1,0 +1,1 @@
+ in index.html the last jjs is for cart and can be used for email or session purposes
